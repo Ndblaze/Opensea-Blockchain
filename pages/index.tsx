@@ -1,10 +1,15 @@
 import type { NextPage } from 'next'
+import Header from '../components/Header'
+import Hero from '../components/Hero'
 import Head from 'next/head'
 import Image from 'next/image'
 
 const Home: NextPage = () => {
   return (
-    <h2>yoooo</h2>
+    <>
+      <Header />
+      <Hero />
+    </>
   )
 }
 
