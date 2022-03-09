@@ -1,3 +1,13 @@
+### Sign in page (with MetaMask)
+<img src="/../assets/gitDrops/signup2.png" alt="signup2"/>
+<img src="/../assets/gitDrops/signup.png" alt="signup"/>
+
+
+### Home page
+<img src="/../assets/gitDrops/homepage.png" alt="Homepage"/>
+
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).

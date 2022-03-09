@@ -6,7 +6,7 @@ import { AiOutlineSearch } from 'react-icons/ai'
 import { CgProfile } from 'react-icons/cg'
 import { MdOutlineAccountBalanceWallet } from 'react-icons/md'
 
-const style = {
+const style = { 
   Wrapper: `bg-[#04111d] w-screen px-[1.2rem] py-[0.8rem] flex`,
   logoContainer: `flex items-center cursor-pointer`,
   logoText: `ml-[0.8rem] text-white font-semibold text-2xl`,
