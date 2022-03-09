@@ -5,8 +5,7 @@
 </div>
 
 ### Home page
-<img src="/assets/gitDrops/homepage.png" alt="Homeage"/>
-
+<img src="/assets/gitDrops/homepage.png" alt="Homepage"/>
 
 
 
