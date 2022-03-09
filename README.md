@@ -1,5 +1,5 @@
 ### Sign in page (with MetaMask)
-<img src="/assets/gitDrops/signup2.png" alt="signup2"/>
+<img src="/assets/gitDrops/signup2.png" alt="signup2" height="400" width="400"/>
 <img src="/assets/gitDrops/signup.png" alt="signup"/>
 
 
