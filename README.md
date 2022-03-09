@@ -1,7 +1,8 @@
 ### Sign in page (with MetaMask)
-<img src="/assets/gitDrops/signup2.png" alt="signup2" height="600" width="600"/>
-<img src="/assets/gitDrops/signup.png" alt="signup" height="400" width="400"/>
-
+<div class="homepage" style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+<img src="/assets/gitDrops/signup2.png" alt="signup2" height="280" width="500"/>
+<img src="/assets/gitDrops/signup.png" alt="signup" height="280"" width="400"/>
+</div>
 
 ### Home page
 <img src="/assets/gitDrops/homepage.png" alt="Homepage"/>
