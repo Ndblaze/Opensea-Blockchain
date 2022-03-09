@@ -1,10 +1,10 @@
 ### Sign in page (with MetaMask)
-<img src="/../assets/gitDrops/signup2.png" alt="signup2"/>
-<img src="/../assets/gitDrops/signup.png" alt="signup"/>
+<img src="/assets/gitDrops/signup2.png" alt="signup2"/>
+<img src="/assets/gitDrops/signup.png" alt="signup"/>
 
 
 ### Home page
-<img src="/../assets/gitDrops/homepage.png" alt="Homepage"/>
+<img src="/assets/gitDrops/homepage.png" alt="Homepage"/>
 
 
 
